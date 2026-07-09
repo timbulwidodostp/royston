@@ -1,6 +1,8 @@
 # royston
 Compute Royston's D for a Cox model Use royston (survival) With (In) R Software
 
+https://www.youtube.com/watch?v=MRH3GFCmGwM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
